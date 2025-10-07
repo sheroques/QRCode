@@ -13,7 +13,6 @@ pip Install qrcode[pil]
 ```bash
 python QRgen.py
 ```
-#QRgen.py é o nome do arquivo do script
 
 E ta pronto o sorvetinho
 
