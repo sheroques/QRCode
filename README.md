@@ -11,7 +11,7 @@ pip Install qrcode[pil]
 
 3. Execute o script:
 ```bash
-python QRgen.py
+python gerar_qr.py
 ```
 
 E ta pronto o sorvetinho
